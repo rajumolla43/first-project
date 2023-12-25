@@ -1,0 +1,10 @@
+# Specifice file ignore
+app.js
+# folder ignore
+img/
+# directore file ignore
+css/custom.css
+# all jpg file ignore
+*.jpg
+# all png file ignore
+*.png 
